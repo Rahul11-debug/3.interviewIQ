@@ -1,0 +1,13 @@
+
+# .gitkeep
+
+# This file is intentionally empty and committed to ensure the `public/`
+# directory is tracked by Git even when it contains no other files.
+#
+# File names:
+# - public/.gitkeep
+#
+# Usage:
+# - Do not remove this file unless you intend to remove the `public/`
+#   directory from version control.
+# - Add static assets (HTML, CSS, JS, images) to this directory as needed.
