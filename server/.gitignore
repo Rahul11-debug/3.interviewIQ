@@ -1,0 +1,16 @@
+.env
+node modules
+dist    
+logs
+coverage    
+*.log
+*.pid   
+.DS_Store
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.sln
+*.suo
+*.ntvs*
+*.njsproj
